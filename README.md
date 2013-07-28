@@ -1,7 +1,7 @@
 ##使用说明
 
 ####setp 1
-下载setting.jar
+下载settings.jar
 
 ----------
 ####setp 2
