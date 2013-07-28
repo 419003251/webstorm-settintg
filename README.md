@@ -5,8 +5,7 @@
 
 ----------
 ####setp 2
-打开webstorm -> File -> import setting     
-选中下载好的setting，重启webstorm
+打开webstorm -> File -> import setting 选中下载好的setting，重启webstorm
 
 ---------
 #### OK
